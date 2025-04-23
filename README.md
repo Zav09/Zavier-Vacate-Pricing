@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Vacate+ - Travel Rhode Island</title>
+  <h1>Vacate+ - Travel Rhode Island</h1>
 </head>
 <body>
   <h1>Welcome to Vacate+</h1>
