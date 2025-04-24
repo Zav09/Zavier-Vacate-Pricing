@@ -6,12 +6,9 @@
   <h1>Vacate+ - Travel Rhode Island</h1>
 </head>
 <body>
-  <h1>Welcome to Vacate+</h1>
+  <h1>Subscription Plans</h1>
   <p>
-    Vacate+ is your trusted travel companion for exploring beautiful Rhode Island.
-    Whether you're looking for hidden gems, must-see spots, or the best hotels to stay in,
-    we've got you covered. Our services make trip planning easy, with customizable packages
-    tailored to your needs and budget.
+    Vacate+ offers multiple packages to engheighten your expierience while using our website. These varying plans offer things such as local  guides, hotel booking assistance, and providing you with the best deals we could fine. Vacate+ offers affordable, and quality deals to ensure that your vacation is completed without any thought of failure.
   </p>
 
   <h2>Our Service Packages</h2>
@@ -27,12 +24,12 @@
       <td>$29</td>
     </tr>
     <tr>
-      <td>Plus</td>
+      <td>Tourist</td>
       <td>Everything in Basic + hotel booking assistance</td>
       <td>$59</td>
     </tr>
     <tr>
-      <td>Premium</td>
+      <td>Traveler</td>
       <td>Full itinerary planning + premium hotel deals</td>
       <td>$99</td>
     </tr>
