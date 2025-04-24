@@ -7,9 +7,7 @@
 </head>
 <body>
   <h1>Subscription Plans</h1>
-  <p>
-    Vacate+ offers multiple packages to engheighten your expierience while using our website. These varying plans offer things such as local  guides, hotel booking assistance, and providing you with the best deals we could fine. Vacate+ offers affordable, and quality deals to ensure that your vacation is completed without any thought of failure.
-  </p>
+  
 
   <h2>Our Service Packages</h2>
   <table>
